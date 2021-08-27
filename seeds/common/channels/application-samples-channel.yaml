@@ -8,7 +8,7 @@ metadata:
     apps.open-cluster-management.io/reconcile-rate: high
 spec:
   type: GitHub
-  pathname: https://github.com/dwojciec/application-samples.git
+  pathname: https://github.com/jnpacker/application-samples.git
 ---
 apiVersion: apps.open-cluster-management.io/v1
 kind: Channel
